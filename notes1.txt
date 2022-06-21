@@ -1,0 +1,10 @@
+mkdir pavadinimas_kokios_reikia
+touch failo_pavadinimas.html (kai kuri faila nepamirsti extensiono) jeigu reikia keliu failu tai deti tarpa ir rasyti
+mv file.txt directoryName;
+mv *.jpg directoryName
+pwd parodo visa path kur esi, root direktorija yra po Users
+rm failo_pavadinimas.txt (trina failus)
+rmdir direktorijos_pavadinimas (istrinti direktorija)
+rm -rf direktorijos_pavadinimas (istrina direktorija kurioje yra failu)
+
+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 - access kodas
