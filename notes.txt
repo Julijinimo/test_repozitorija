@@ -9,4 +9,4 @@ rm -rf direktorijos_pavadinimas (istrina direktorija kurioje yra failu)
 
 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 - access kodas
 
-pridejau teksto11111
+pridejau teksto11111asdasdas
